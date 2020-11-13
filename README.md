@@ -13,26 +13,26 @@ You must use:
 #### Areas:
 ```json
 [
-  {
-    "id": 1892,
-    "name": "Zona 2"
-  },
-  {
-    "id": 1901,
-    "name": "Zona 5"
-  },
-  {
-    "id": 1893,
-    "name": "Zona 0"
-  },
-  {
-    "id": 1791,
-    "name": "Zona 1"
-  },
-  {
-    "id": 1900,
-    "name": "Zona 4"
-  }
+	{
+		"id": 1892,
+		"name": "Zona 2"
+	},
+	{
+		"id": 1901,
+		"name": "Zona 5"
+	},
+	{
+		"id": 1893,
+		"name": "Zona 0"
+	},
+	{
+		"id": 1791,
+		"name": "Zona 1"
+	},
+	{
+		"id": 1900,
+		"name": "Zona 4"
+	}
 ]
 ```
 #### Tables:
